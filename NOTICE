@@ -1,0 +1,15 @@
+This project calls EWR (Epson Waste-Reset), which is distributed under the
+Apache License 2.0, and does not modify or redistribute it.
+
+    EWR - Epson Waste-Reset
+    Copyright (c) RxNaison
+    https://github.com/RxNaison/Epson-Waste-Reset
+    License: Apache-2.0
+    Version used: v1.6.0
+
+EWR is downloaded separately by the user (see setup-ewr.ps1) and is not part
+of this repository. Its own licence and NOTICE apply to it.
+
+Not affiliated with, endorsed by, or supported by Seiko Epson Corporation.
+"Epson" and "EcoTank" are trademarks of Seiko Epson Corporation, used here
+only to describe what the software talks to.

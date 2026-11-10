@@ -1,0 +1,10 @@
+# EWR binary + model database are downloaded, never committed
+EWR/
+
+# generated at runtime
+运行日志.txt
+诊断报告.txt
+诊断报告.json
+__pycache__/
+*.py[cod]
+*.zip
